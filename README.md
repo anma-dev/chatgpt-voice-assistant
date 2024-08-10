@@ -6,7 +6,6 @@ You can click the "Push-To-Talk" button in the web app to ask ChatGPT about anyt
 
 This repository includes sample code from the first book in the ***HOW-TO-DO-AI book series***, "AI/ML Web App Development for Everyone: A 5-Day Guide for Non-Coders to Build a Voice Assistant that Understands 97 Languages". This book is intended for everyone, including non-coders without a technology background, to develop an AI/ML web app easily with step-by-step guidence. You can get a copy of the book from [Kindle](https://www.amazon.com/dp/B0BX5BGQ5R), [Amazon Books](https://www.amazon.com/dp/B0BW3HG5G6), or [Gumroad](https://mingkuan.gumroad.com/l/cxfra). 
 
-
 **Note**:
 You need get your own OpenAI API key in order to let the web app to get response from the chatGPT API.
 
