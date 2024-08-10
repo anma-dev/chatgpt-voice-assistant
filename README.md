@@ -21,7 +21,7 @@ You need get your own OpenAI API key in order to let the web app to get response
 ## 1. Run from source code directly
 ```bash
 #checkout the source codes
-git clone https://github.com/mingkuan/voice-assistant-chatgpt.git
+git clone https://github.com/anma-dev/chatgpt-voice-assistant.git
 
 #install dependencies
 pip install -r requirements.txt
